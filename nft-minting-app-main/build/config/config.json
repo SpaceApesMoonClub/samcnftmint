@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe916f76c24c33E6cBD4BB38798B16C1c2611CD06",
+  "SCAN_LINK": "https://etherscan.io/address/0xe916f76c24c33e6cbd4bb38798b16c1c2611cd06",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Space Apes Moon Club",
+  "SYMBOL": "SAMC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/space-apes-moon-club-1",
+  "SHOW_BACKGROUND": true
+}
